@@ -4,7 +4,7 @@ Submitted by: **Jing Liu**
 
 **Flixster** is a movie browsing app that that is similar to Flixster.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
