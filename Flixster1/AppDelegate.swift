@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Flixster Pt. 1
+//  Flixster1
 //
-//  Created by Jing Liu on 3/6/23.
+//  Created by Jing Liu on 3/13/23.
 //
 
 import UIKit
