@@ -1,29 +1,12 @@
-# Project 2 - *Flixster Pt. 1*
+# *FilmFlow Pt. 1*
 
-Submitted by: **Jing Liu**
+**FilmFlow** is a movie-browsing app that is similar to Flixster.
 
-**Flixster** is a movie browsing app that that is similar to Flixster.
-
-Time spent: **4** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
+## Features
 - [x] Users are able to see a customized app icon and launch screen
 - [x] Your app should work for any screen size and orientation using AutoLayout constraints
 - [x] Displays at least 5 different movies in a table view
 - [x] Can tap into detail view of movie with a full description, backdrop image, and title
- 
-The following **optional** features are implemented:
-
-- [ ] Unique UI changes, such as background, font/color changes, etc.
-- [ ] User implements a collection view
-- [ ] User implemenets tab bar controller with at least two screens
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -31,8 +14,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src="https://github.com/markov42/Flixster/blob/main/CTAmbet%20-%20Imgur.gif" width=200><br>
 
-
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur 
 
 
